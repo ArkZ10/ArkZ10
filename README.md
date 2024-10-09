@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning Operations (MLOps) & Cloud Computing**
 
-- 👨‍💻 My highlight projects are available at [Portfolio](https://arkz10.github.io/Portfolio/)
-
 - 💬 Ask me about **Machine Learning (Supervised & Unsupervised Learning)**
 
 - 📫 How to reach me **jefthajoshua9@gmail.com**
