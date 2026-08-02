@@ -15,8 +15,6 @@
 
 ### About
 
-<img align="right" width="240" src="https://www.isical.ac.in/~cvpr/ICDARWML21/images/deepLearning.gif" alt="deep learning"/>
-
 - 🔬 Master's student at the **Machine Learning Lab (MLLAB), National Yang Ming Chiao Tung University**, Hsinchu, Taiwan
 - 🧪 Thesis: **jailbreak attacks and defenses on diffusion-based language models** evaluating attack surfaces unique to parallel, non-autoregressive decoding
 - 🎓 B.Eng. in Electrical Engineering, Universitas Brawijaya specialization in Machine Learning, AI, Computer Network, and Robotics.
