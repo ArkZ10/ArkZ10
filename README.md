@@ -41,9 +41,3 @@
 </p>
 
 ---
-
-### Stats
-
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com/?user=arkz10" alt="streak"/>
-</p>
